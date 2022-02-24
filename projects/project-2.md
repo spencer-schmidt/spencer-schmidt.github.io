@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/overallassembly.jpeg
+image: spencer-schmidt.github.io/images/overallassembly.jpeg
 title: Propulsion Test Stand
 permalink: projects/vacay
 # All dates must be YYYY-MM-DD format!
