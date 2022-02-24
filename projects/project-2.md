@@ -1,22 +1,21 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
-title: Vacay
+image: images/overallassembly.jpeg
+title: Propulsion Test Stand
 permalink: projects/vacay
 # All dates must be YYYY-MM-DD format!
-date: 2015-12-15
+date: 2022-2-15
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - Rocketry
+  - CAD
+  - Manufacturing
+summary: A load cell with an apparatus to hold rocket motors of different sizes to measure their thrust output.
 ---
 
 <img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+I helped the UF swamp launch rocket team to develop a motor propulsion test stand in the spring of 2022. Throughout the project I got experience with non-traditional manufacturing techniques, MATLAB coding, CAD modeling, and with working in a team and delegating tasks.
 
 Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
 
