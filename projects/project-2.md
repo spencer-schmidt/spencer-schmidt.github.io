@@ -13,7 +13,7 @@ labels:
 summary: A load cell with an apparatus to hold rocket motors of different sizes to measure their thrust output.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+<img class="ui medium right floated rounded image" src="spencer-schmidt.github.io/images/overallassembly.jpeg">
 
 I helped the UF swamp launch rocket team to develop a motor propulsion test stand in the spring of 2022. Throughout the project I got experience with non-traditional manufacturing techniques, MATLAB coding, CAD modeling, and with working in a team and delegating tasks.
 
