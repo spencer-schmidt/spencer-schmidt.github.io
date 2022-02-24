@@ -13,7 +13,7 @@ labels:
 summary: A load cell with an apparatus to hold rocket motors of different sizes to measure their thrust output.
 ---
 
-<img class="ui medium right floated rounded image" src="https://spencer-schmidt.github.io//images/overallassembly.jpeg">
+![overallassembly](https://user-images.githubusercontent.com/100320907/155445287-74db69bd-0812-4e92-bed6-e64a8e271fea.JPG)
 
 I helped the UF swamp launch rocket team to develop a motor propulsion test stand in the spring of 2022. Throughout the project I got experience with non-traditional manufacturing techniques, MATLAB coding, CAD modeling, and with working in a team and delegating tasks.
 
@@ -21,5 +21,3 @@ Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application
 
 In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
  
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
-![overallassembly](https://user-images.githubusercontent.com/100320907/155445287-74db69bd-0812-4e92-bed6-e64a8e271fea.JPG)
