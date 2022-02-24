@@ -1,169 +1,158 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Spencer Schmidt",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "picture": "https://github.com/spencer-schmidt/spencer-schmidt.github.io/blob/master/images/file3.jpeg",
+    "email": "spencerschmidt@ufl.edu",
+    "phone": "321-437-4940",
+    "website": "https://spencer-schmidt.github.io",
+    "summary": "I am an undergratuate mechanical engineering student at the University of Florida. I expect to graduate in Spring, 2023.",
     "location": {
       "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
-      "countryCode": "USA",
-      "region": "Hawaii"
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
     },
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "spencer-schmidt",
+        "url": "https://github.com/spencer-schmidt"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "username": "Spencer Schmidt",
+        "url": "www.linkedin.com/in/spencer-schmidt"
       },
       {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
+        "network": "",
+        "username": "",
+        "url": ""
       },
       {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "network": "",
+        "username": "",
+        "url": ""
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Amateur Rocketry",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
+        "IREC",
+        "Swamp Launch", 
+        "Propulsion"
       ]
     },
     {
-      "name": "data mining",
-      "keywords": [
+      "name": "Manufacturing",
+      "keywords": ["Traditional Manufacturing", 
+                   "CNC Machining",
+                   "3D Printing",
+                   "Welding"
       ]
     },
     {
-      "name": "artificial intelligence",
-      "keywords": [
+      "name": "Fishing",
+      "keywords": ["UF Salty Gators",
+                   "Saltwater"
+                   "Inter-costal"
       ]
     }
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
+      "name": "Modeling and Analysis Software",
       "level": "",
       "keywords": [
-        "C",
-        "C++",
-        "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Solidworks",
+        "Autodesk",
+        "FEA",
+        "MATLAB"
       ]
     },
     {
-      "name": "Toolsets/OS",
+      "name": "Manufacturing",
       "level": "",
       "keywords": [
-        "MacOS",
-        "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Machining",
+        "3D Printing",
+        "Wood Working"
       ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "institution": "University of Florida, Gainesville, FL",
+      "area": "Mechanical Engineering (expected Spring, 2023)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2019-08-20",
       "endDate": "Present",
-      "gpa": "",
-      "courses": [
+      "gpa": "3.64",
+      "courses": ["Control of Mechanical Engineering Systems",
+                  "Mechanical Design 1",
+                  "Design and Manufacturing Lab",
+                  "Vibrations",
+                  "Dynamics",
+                  "Computer Programming for Engineers"
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "University of Florida Information Technology",
+      "position": "Technology Consultant",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2021-08-20",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Oversee campus technology labs",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
-      ]
-    },
-    {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
-      "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Maintain, troubleshoot, and prepare lab technology",
+        "Provide computers for instruction and student use"
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "organization": "American Cancer Society",
+      "website": "https://www.cancer.org/",
+      "position": "Event Lead",
+      "startDate": "2018-10-01",
+      "endDate": "2019-05-08",
+      "summary": "Proposed and organized dance marathon fundraiser for Relay for Life",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Lead the creation of a fundraiser with nearly 100 attendees",
+        "Raised over $4000 for the American Cancer Society"
       ]
     },
     {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "organization": "University of Florida Salty Gators Fishing Club",
+      "website": "http://ufsaltygators.com/",
+      "position": "Treasurer",
+      "startDate": "Fall 2020",
+      "endDate": "Present",
+      "summary": "Handle money and bookkeeping for the fishing club",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Helped organize charity fishing tournament to raise funds for Captains for Clean Water",
+        "Handle all income and payments including merchandise orders and tournament donations",
+        "Repaired and serviced club outboard motors"
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "Gerald and Elaine L. Gibson Scholarship in Engineering",
+      "date": "2021",
+      "awarder": "Herbert Wertheim College of Engineering",
+      "summary": "Scholarship for chosen high achieving undergatuate students within the Herbert Wertheim College of Engineering."
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
-    }
-  ],
-  "references": [
-    {
-      "name": "Available upon request",
-      "reference": ""
+      "title": "Osceola County Stem Outstanding Scholar",
+      "date": "2018",
+      "awarder": "School District of Osceola County",
+      "summary": "Awarded to students who succeed in STEM oriented extra-curriculars."
     }
   ]
 }
