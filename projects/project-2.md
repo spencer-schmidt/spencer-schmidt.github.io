@@ -2,8 +2,8 @@
 layout: project
 type: project
 image: images/teststandassembly (2).PNG
-title: Cotton
-permalink: projects/cotton
+title: Propulsion Test-Stand
+permalink: projects/Propulsion Test-Stand
 # All dates must be YYYY-MM-DD format!
 date: 2014-04-12
 labels:
