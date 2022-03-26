@@ -22,6 +22,6 @@ In this project, my primary focus was on modeling components of the test stand, 
 Below is an up close photo of my initial design for the centering ring, and a small sample of one of my matlab programs
 
 <div class="ui large images">
-  <img class="ui image" src="../images/ring.jpg">
+  <img class="ui image" src="../images/ring.JPG">
   <img class="ui image" src="../images/MATLAB.JPG">
 </div>
