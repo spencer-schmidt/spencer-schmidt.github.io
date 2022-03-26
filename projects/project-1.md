@@ -3,9 +3,9 @@ layout: project
 type: project
 image: images/Robot1.jfif
 title: RC Ball-Launching Robot
-permalink: projects/micromouse
+permalink: projects/RC Ball-Launching Robot
 # All dates must be YYYY-MM-DD format!
-date: 2015-07-01
+date: 2021-08-20
 labels:
   - Manufacturing
   - SolidWorks
