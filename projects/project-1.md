@@ -20,7 +20,7 @@ During this project, I was mainly focused on CAD assembly and manufacturing. I u
 
 The pictures below include an exploded view of the overall assembly, a picture of the competition arena, and a real-life picture of the robot in competition:
 
-<div class="ui small rounded images">
+<div class="ui medium rounded images">
   <img class="ui image" src="../images/robotdrawww.jpg">
   <img class="ui image" src="../images/arena.JPG">
   <img class="ui image" src="../images/Robot1.jfif">
