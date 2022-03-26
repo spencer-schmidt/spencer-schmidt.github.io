@@ -5,56 +5,23 @@ image: images/teststandassembly (2).PNG
 title: Propulsion Test-Stand
 permalink: projects/Propulsion Test-Stand
 # All dates must be YYYY-MM-DD format!
-date: 2014-04-12
+date: 2022-01-12
 labels:
-  - Lisp
-  - GitHub
-summary: A text adventure game I developed for ICS 313.
+  - Rocketry
+  - MatLab
+  - Machining
+summary: I helped the UF rocket team develop a thrust measuring test stand
 ---
 
 <img class="ui image" src="https://spencer-schmidt.github.io//images/banneragain.jpg">
 
-Cotton is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
+This year, I had the opportunity to join the propulsion sub-team for the UF Swamp Launch Rocket Team. The primary task at the time was to design and build a teststand to hold a rocket motor and to measure its thrust as it fires. This kind of device is crucial for the team to be able to create rocket motors from scratch, so they can compare their thrust output to commercially available motors. Moving forward, we will use this teststand to fine-tune rocket fuel formulations to create the best motors we can.
 
-To give you a flavor of the game, here is an excerpt from one run:
+In this project, my primary focus was on modeling components of the test stand, and developing factor of safety calculators in MATLAB. In SolidWorks, I designed the centering ring assembly that would support the rocket motor as it fired. This component featured ball bearings that would hold the motor at three points around its circumference. These bearings needed to be free to move continuously in the radial direction, so I chose stud-mounted ball bearings that could screw in and out to support motors of non-standard sizes. To ensure our design could support the forces of the firing rocket motor, I did stress and factor of safety calculations for several components. Then I used these calculations to create MATLAB programs that allowed us to vary the dimesions of the components to find the lightest, cheapest design possible. I was also active in the testing and calibration phases for our final design, and helped make sure we could accurately measure rocket thrust.
 
-<hr>
+Below is an up close photo of my initial design for the centering ring, and a small sample of one of my matlab programs
 
-<pre>
-You open your eyes, and you are greeted by an unfamiliar ceiling.
-Startled, you get to your feet and quickly scan your surroundings. It's
-dark except for the stream of light coming from a crack on the only boarded
-window in the room. You try to peek through the crack, but you cannot see
-anything. You wonder where you are and who could have possibly brought you here.
-
-<--------------------help------------------------>
-Enter quit or one of the following commands -
-Weld light look walk pickup inventory help h ?
-<------------------------------------------------>
-
-look
-The room is a picture of decay with only a faded number identifying it as room-4. The bed you were
- lying on is stained with what looks like dried blood. Could it be your blood? No - it is not. The
- only way out of the room aside from the door to the corridor is a window that is boarded shut. It
- looks like it has been like that for decades. There is a door going west from here. You see a candle
- on the floor. You see a match on the floor.
-
-pickup candle
-- you are now carrying the candle -
-
-pickup match
-- you are now carrying the match -
-
-light match candle
-
-The candle is now lit. It illuminates everything in the room.
-
-walk west
-The corridor is lit with the candle. It is so long that you cannot see to the end. You notice that
- there are words written on the wall. There is a door going east from here. There is a way going north
- from here. There is a door going south from here.
-</pre>
-
-<hr>
-
-
+<div class="ui large images">
+  <img class="ui image" src="../images/ring.jpg">
+  <img class="ui image" src="../images/MATLAB.JPG">
+</div>
