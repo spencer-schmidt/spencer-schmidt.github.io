@@ -22,7 +22,7 @@ The pictures below include an exploded view of the overall assembly, a picture o
 
 <div class="ui small rounded images">
   <img class="ui image" src="../images/robotdrawww.jpg">
-  <img class="ui image" src="../images/arena.jpg">
+  <img class="ui image" src="../images/arena.JPG">
   <img class="ui image" src="../images/Robot1.jfif">
 </div>
 
